@@ -1,0 +1,45 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'PT Sans', sans-serif;
+}
+
+h1 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: 'Indie Flower', cursive;
+}
+
+h3 {
+    font-family: 'Teko', sans-serif;
+}
+
+span {
+    text-decoration: underline;
+}
+
+.top-container {
+    background-color: #ccf2f4;
+    position: relative;
+    padding-top: 100px;
+}
+
+.top-cloud-img {
+    position: absolute;
+    top: 10%;
+    right: 25%;
+}
+
+.bottom-cloud-img {
+    position: absolute;
+    bottom: 60%;
+    left: 25%;
+}
+
+.contact-me {
+    margin-bottom: 20px;
+}
+
+.middle-container {}
+
+.bottom-container {}
